@@ -3,7 +3,7 @@
 
 This project aims to define a template for managing authentication using Spring Security.
 
-***!!!Disclaimer:*** This project was created for educational purposes only. The author assumes no responsibility for any improper use of the code in this project.
+***!!!Disclaimer:** This project was created for educational purposes only. The author assumes no responsibility for any improper use of the code in this project.*
 
 ## API Reference
 
