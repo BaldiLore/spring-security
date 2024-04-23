@@ -13,7 +13,7 @@ This project aims to define a template for managing authentication using Spring 
   GET /private/auth
 ```
 
-#### Get item
+#### Test access to the public resource
 
 ```http
   GET /public/no-auth
