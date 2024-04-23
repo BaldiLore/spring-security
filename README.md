@@ -26,7 +26,7 @@ To test this project with different security configurations, you will need to st
 - dev
 - prod
 
-With ***dev*** profile the security configuretion allows to access all resources regardless of the presence or validity of the token.
+With ***dev*** profile the security configuration allows to access all resources regardless of the presence or validity of the token.
 
 With ***prod*** profile the security configuration allows to access /public/* resurces without token validation while all other resources need a valid JWT Token.
 
